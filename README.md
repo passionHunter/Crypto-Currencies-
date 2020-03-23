@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application. From YouTube i learned how to develop an flutter Application Based on MVP(Model View Presenter) model.It's just an UI.
 
 A few resources to get you started if this is your first Flutter project:
 
